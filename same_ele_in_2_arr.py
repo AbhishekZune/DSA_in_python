@@ -17,3 +17,8 @@ for i in arr2:
   if i in d1.keys():
     print(True)
 print(False)
+
+
+for i in arr2:
+  if arr1.find(i):
+    print (True)
