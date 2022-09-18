@@ -1,4 +1,3 @@
-print("hello")
 class Hashtable:
 	def __init__(self):
 		"""
